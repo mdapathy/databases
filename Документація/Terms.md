@@ -11,7 +11,9 @@
    **[Ініціатива data.gov](https://github.com/mdapathy/databases/blob/mdapathy-patch-2/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D1%96%D0%BD%D1%86%D1%96%D0%B0%D1%82%D0%B8%D0%B2%D0%B0-datagov)**
    
    **[Відкриті дані держав](https://github.com/mdapathy/databases/blob/mdapathy-patch-2/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%B2%D1%96%D0%B4%D0%BA%D1%80%D0%B8%D1%82%D1%96-%D0%B4%D0%B0%D0%BD%D1%96-%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2)**
+   
    **[Життєвий цикл даних](https://github.com/mdapathy/databases/blob/mdapathy-patch-2/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%B6%D0%B8%D1%82%D1%82%D1%94%D0%B2%D0%B8%D0%B9-%D1%86%D0%B8%D0%BA%D0%BB-%D0%B4%D0%B0%D0%BD%D0%B8%D1%85)**
+   
    **[Стадії обробки даних](https://github.com/mdapathy/databases/blob/mdapathy-patch-2/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D1%81%D1%82%D0%B0%D0%B4%D1%96%D1%8F-%D0%BF%D0%BB%D0%B0%D0%BD%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F)**
 
 **Стадія планування
@@ -529,35 +531,35 @@
 
 ### Джерела
 
-    1. https://uk.wikipedia.org/wiki/Open_Database_License
-    2. https://nachasi.com/2018/06/12/vidkryti-dani/
-    3. https://ru.m.wikipedia.org/wiki/Data.gov
-    4. https://www.data.gov/about
-    5. https://ru.m.wikipedia.org/wiki/Открытые_данные
-    6. https://pidruchniki.com/11930807/informatika/zhittyeviy_tsikl_danih_zbir_sistematizatsiya_danih
-    7. https://uk.wikipedia.org/wiki/Попередня_обробка_даних
-    8. https://uk.wikipedia.org/wiki/Інтеграція_даних
-    9. https://sites.google.com/site/tehnikakomp/home/samostijne-vivcenna-materialu/sistema-upravlinna-bazami-danih-subd-subd-microsoft-access
-    10. httpHYPERLINK "http://socialdata.org.ua/manual3/"://HYPERLINK "http://socialdata.org.ua/manual3/"socialdataHYPERLINK "http://socialdata.org.ua/manual3/".HYPERLINK "http://socialdata.org.ua/manual3/"orgHYPERLINK "http://socialdata.org.ua/manual3/".HYPERLINK "http://socialdata.org.ua/manual3/"uaHYPERLINK "http://socialdata.org.ua/manual3/"/HYPERLINK "http://socialdata.org.ua/manual3/"manualHYPERLINK "http://socialdata.org.ua/manual3/"3/
-    11. httpHYPERLINK "http://socialdata.org.ua/manual2/"://HYPERLINK "http://socialdata.org.ua/manual2/"socialdataHYPERLINK "http://socialdata.org.ua/manual2/".HYPERLINK "http://socialdata.org.ua/manual2/"orgHYPERLINK "http://socialdata.org.ua/manual2/".HYPERLINK "http://socialdata.org.ua/manual2/"uaHYPERLINK "http://socialdata.org.ua/manual2/"/HYPERLINK "http://socialdata.org.ua/manual2/"manualHYPERLINK "http://socialdata.org.ua/manual2/"2/
-    12. httpsHYPERLINK "https://uk.wikipedia.org/wiki/Office_Open_XML"://HYPERLINK "https://uk.wikipedia.org/wiki/Office_Open_XML"ukHYPERLINK "https://uk.wikipedia.org/wiki/Office_Open_XML".HYPERLINK "https://uk.wikipedia.org/wiki/Office_Open_XML"wikipediaHYPERLINK "https://uk.wikipedia.org/wiki/Office_Open_XML".HYPERLINK "https://uk.wikipedia.org/wiki/Office_Open_XML"orgHYPERLINK "https://uk.wikipedia.org/wiki/Office_Open_XML"/HYPERLINK "https://uk.wikipedia.org/wiki/Office_Open_XML"wikiHYPERLINK "https://uk.wikipedia.org/wiki/Office_Open_XML"/HYPERLINK "https://uk.wikipedia.org/wiki/Office_Open_XML"OfficeHYPERLINK "https://uk.wikipedia.org/wiki/Office_Open_XML"_HYPERLINK "https://uk.wikipedia.org/wiki/Office_Open_XML"OpenHYPERLINK "https://uk.wikipedia.org/wiki/Office_Open_XML"_HYPERLINK "https://uk.wikipedia.org/wiki/Office_Open_XML"XML
-    13. httpsHYPERLINK "https://uk.wikipedia.org/wiki/Метадані"://HYPERLINK "https://uk.wikipedia.org/wiki/Метадані"ukHYPERLINK "https://uk.wikipedia.org/wiki/Метадані".HYPERLINK "https://uk.wikipedia.org/wiki/Метадані"wikipediaHYPERLINK "https://uk.wikipedia.org/wiki/Метадані".HYPERLINK "https://uk.wikipedia.org/wiki/Метадані"orgHYPERLINK "https://uk.wikipedia.org/wiki/Метадані"/HYPERLINK "https://uk.wikipedia.org/wiki/Метадані"wikiHYPERLINK "https://uk.wikipedia.org/wiki/Метадані"/HYPERLINK "https://uk.wikipedia.org/wiki/Метадані"Метадані 
-    14. https://uk.wikipedia.org/wiki/Набір_даних
-    15. http://elartu.tntu.edu.ua/bitstream/lib/27217/2/IMST_2018_Kovalyk_I-Analitychne_opratsiuvannia_velykykh_30.pdf
-    16. https://www.bsia.co.uk/Portals/4/Publications/262-introduction-video-content-analysis-industry-guide-02.pdf
-    17. https://www.gartner.com/it-glossary/social-analytics
-    18. https://www.mymarketresearchmethods.com/types-of-data-nominal-ordinal-interval-ratio/#zzuzewsw
-    19. http://web.mit.edu/epl/StevensBiography.pdf
-    20. https://www.statisticssolutions.com/statistical-data-analysis/
-    21. https://www.wikigender.org/wiki/composite-indicator/
-    22. https://stud.com.ua/93316/statistika/normuvannya_standartizatsiya_unifikatsiya_danih
-    23. http://www.math.chalmers.se/~wermuth/pdfs/96-05/WerCox98_Statistical_dependence.pdf
-    24. https://uk.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D1%85_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82
-    25. https://uk.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BD%D0%B8%D0%B9_%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D0%B7
-    26. https://www.tutorialspoint.com/db2/db2_introduction.htm
-    27. https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D0%B2%D0%BF%D1%87%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0_%D0%B4%D1%96%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0
-    28. https://uk.wikipedia.org/wiki/%D0%93%D1%96%D1%81%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B0
-    29. https://uk.wikipedia.org/wiki/%D0%9B%D1%96%D0%BD%D1%96%D0%B9%D0%BD%D0%B0_%D0%B4%D1%96%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0
-    30. https://uk.wikipedia.org/wiki/Секторна_діаграма
-    31.  https://uk.wikipedia.org/wiki/%D0%A2%D0%BE%D1%87%D0%BA%D0%BE%D0%B2%D0%B0_%D0%B4%D1%96%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0
-    32. https://uk.wikipedia.org/wiki/Діаграма_Ганта
+ 1. https://uk.wikipedia.org/wiki/Open_Database_License
+ 2. https://nachasi.com/2018/06/12/vidkryti-dani/
+ 3. https://ru.m.wikipedia.org/wiki/Data.gov
+ 4. https://www.data.gov/about
+ 5. https://ru.m.wikipedia.org/wiki/Открытые_данные
+ 6. https://pidruchniki.com/11930807/informatika/zhittyeviy_tsikl_danih_zbir_sistematizatsiya_danih>
+ 7. https://uk.wikipedia.org/wiki/Попередня_обробка_даних>
+ 8. https://uk.wikipedia.org/wiki/Інтеграція_даних>
+ 9. https://sites.google.com/site/tehnikakomp/home/samostijne-vivcenna-materialu/sistema-upravlinna-bazami-danih-subd-subd-microsoft-access
+ 10. http://socialdata.org.ua/manual3/
+ 11. http://socialdata.org.ua/manual2
+ 12. https://uk.wikipedia.org/wiki/Office_Open_XML
+ 13. https://uk.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D0%B4%D0%B0%D0%BD%D1%96
+ 14. https://uk.wikipedia.org/wiki/Набір_даних
+ 15. http://elartu.tntu.edu.ua/bitstream/lib/27217/2/IMST_2018_Kovalyk_I-Analitychne_opratsiuvannia_velykykh_30.pdf
+ 16. https://www.bsia.co.uk/Portals/4/Publications/262-introduction-video-content-analysis-industry-guide-02.pdf
+ 17. https://www.gartner.com/it-glossary/social-analytics
+ 18. https://www.mymarketresearchmethods.com/types-of-data-nominal-ordinal-interval-ratio/#zzuzewsw
+ 19. http://web.mit.edu/epl/StevensBiography.pdf
+ 20. https://www.statisticssolutions.com/statistical-data-analysis/
+ 21. https://www.wikigender.org/wiki/composite-indicator/
+ 22. https://stud.com.ua/93316/statistika/normuvannya_standartizatsiya_unifikatsiya_danih
+ 23. http://www.math.chalmers.se/~wermuth/pdfs/96-05/WerCox98_Statistical_dependence.pdf
+ 24.https://uk.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D1%85_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82
+ 25. https://uk.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BD%D0%B8%D0%B9_%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D0%B7
+ 26. https://www.tutorialspoint.com/db2/db2_introduction.htm
+ 27.https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D0%B2%D0%BF%D1%87%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0_%D0%B4%D1%96%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0
+ 28. https://uk.wikipedia.org/wiki/%D0%93%D1%96%D1%81%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B0
+ 29. https://uk.wikipedia.org/wiki/%D0%9B%D1%96%D0%BD%D1%96%D0%B9%D0%BD%D0%B0_%D0%B4%D1%96%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0
+ 30. https://uk.wikipedia.org/wiki/Секторна_діаграма
+ 31. https://uk.wikipedia.org/wiki/%D0%A2%D0%BE%D1%87%D0%BA%D0%BE%D0%B2%D0%B0_%D0%B4%D1%96%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0
+ 32. https://uk.wikipedia.org/wiki/Діаграма_Ганта
