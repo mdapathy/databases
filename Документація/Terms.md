@@ -44,61 +44,59 @@
 
 **[Метадані](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%BC%D0%B5%D1%82%D0%B0%D0%B4%D0%B0%D0%BD%D1%96)**
 
-**[Набір даних](
+**[Набір даних](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%BD%D0%B0%D0%B1%D1%96%D1%80-%D0%B4%D0%B0%D0%BD%D0%B8%D1%85)**
 
-***[Огляд методів та засобів аналітичного опрацювання даних]
+***[Огляд методів та засобів аналітичного опрацювання даних](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%BE%D0%B3%D0%BB%D1%8F%D0%B4-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%96%D0%B2-%D1%82%D0%B0-%D0%B7%D0%B0%D1%81%D0%BE%D0%B1%D1%96%D0%B2-%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D1%82%D0%B8%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%BF%D1%80%D0%B0%D1%86%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-%D0%B4%D0%B0%D0%BD%D0%B8%D1%85)**
 
-[Типи даних, шкали]
+**[Типи даних, шкали](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D1%82%D0%B8%D0%BF%D0%B8-%D0%B4%D0%B0%D0%BD%D0%B8%D1%85-%D1%88%D0%BA%D0%B0%D0%BB%D0%B8)**
 
-[Статистичне опрацювання даних]
+**[Статистичне опрацювання даних](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%BD%D0%B5-%D0%BE%D0%BF%D1%80%D0%B0%D1%86%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-%D0%B4%D0%B0%D0%BD%D0%B8%D1%85)**
 
-[Композитні індикатори]
+**[Композитні індикатори](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BD%D1%96-%D1%96%D0%BD%D0%B4%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%D0%B8)**
 
-[Нормування]
+**[Нормування](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%BD%D0%BE%D1%80%D0%BC%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F)**
 
-[Пошук статистичної залежності]
+**[Пошук статистичної залежності](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%BF%D0%BE%D1%88%D1%83%D0%BA-%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%BD%D0%BE%D1%97-%D0%B7%D0%B0%D0%BB%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96)**
 
-[Метод головних компонентів]
+**[Метод головних компонентів](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%BC%D0%B5%D1%82%D0%BE%D0%B4-%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D1%85-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D1%96%D0%B2)**
 
-[Кластерування даних]
+**[Кластерування даних](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%BA%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-%D0%B4%D0%B0%D0%BD%D0%B8%D1%85)**
 
-[Модулі для виконання аналітичного опрацювання даних]
+**[Модулі для виконання аналітичного опрацювання даних](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%96-%D0%B4%D0%BB%D1%8F-%D0%B2%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0%D0%BD%D0%BD%D1%8F-%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D1%82%D0%B8%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%BF%D1%80%D0%B0%D1%86%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-%D0%B4%D0%B0%D0%BD%D0%B8%D1%85)**
 
-***[Огляд методів та засобів візуального опрацювання даних]
+***[Огляд методів та засобів візуального опрацювання даних](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%BE%D0%B3%D0%BB%D1%8F%D0%B4-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%96%D0%B2-%D1%82%D0%B0-%D0%B7%D0%B0%D1%81%D0%BE%D0%B1%D1%96%D0%B2-%D0%B2%D1%96%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%BF%D1%80%D0%B0%D1%86%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-%D0%B4%D0%B0%D0%BD%D0%B8%D1%85)***
 
-[Кращі практики візуалізації даних]
+**[Кращі практики візуалізації даних](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%BA%D1%80%D0%B0%D1%89%D1%96-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B8-%D0%B2%D1%96%D0%B7%D1%83%D0%B0%D0%BB%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%97-%D0%B4%D0%B0%D0%BD%D0%B8%D1%85)**
 
-[Вибір правильної діаграми]
+**[Вибір правильної діаграми](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%B2%D0%B8%D0%B1%D1%96%D1%80-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D1%97-%D0%B4%D1%96%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B8)**
 
-[Типи діаграм та їх використання]
+**[Типи діаграм та їх використання](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D1%82%D0%B8%D0%BF%D0%B8-%D0%B4%D1%96%D0%B0%D0%B3%D1%80%D0%B0%D0%BC-%D1%82%D0%B0-%D1%97%D1%85-%D0%B2%D0%B8%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D0%BD%D1%8F)**
 
-[Стовпчасті діаграми]
+*[Стовпчасті діаграми](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D1%81%D1%82%D0%BE%D0%B2%D0%BF%D1%87%D0%B0%D1%81%D1%82%D1%96-%D0%B4%D1%96%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B8)*
 
-[Гістограма]
+*[Гістограма](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%B3%D1%96%D1%81%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B0)*
 
-[Складені стовпчасті діаграми]
+*[Складені стовпчасті діаграми](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D0%B5%D0%BD%D1%96-%D1%81%D1%82%D0%BE%D0%B2%D0%BF%D1%87%D0%B0%D1%81%D1%82%D1%96-%D0%B4%D1%96%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B8)*
 
-[Лінійні діаграми]
+*[Лінійні діаграми](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%BB%D1%96%D0%BD%D1%96%D0%B9%D0%BD%D1%96-%D0%B4%D1%96%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B8)*
 
-[Лінійні гістограми]
+*[Лінійні гістограми](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%BB%D1%96%D0%BD%D1%96%D0%B9%D0%BD%D1%96-%D0%B3%D1%96%D1%81%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B8)*
 
-[Лінійні графіки]
+*[Графіки з часовою шкалою]
 
-[Графіки з часовою шкалою]
+*[Діаграми з ділянками]
 
-[Діаграми з ділянками]
+*[Складені діаграми з ділянками]
 
-[Складені діаграми з ділянками]
+*[Кругові діаграми]
 
-[Кругові діаграми]
+*[Точкова діаграма]
 
-[Точкова діаграма]
+*[Діаграми з використанням карт]
 
-[Діаграми з використанням карт]
+*[Діаграми Ганта]
 
-[Діаграми Ганта]
-
-[Діаграми багатьох осей]
+*[Діаграми багатьох осей]
 
 
  **[Джерела](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%B4%D0%B6%D0%B5%D1%80%D0%B5%D0%BB%D0%B0)**
@@ -529,7 +527,7 @@
 
 ***Часова шкала*** - це варіація лінійних діаграм. Очевидно, що будь-яка діаграма ліній, яка показує значення за певний період часу, є графіком часової шкали. **Єдина відмінність полягає в тому**, що *функціональність* - більшість графіків тимчасової шкали дозволяють збільшувати та зменшувати масштаб і стискати або розтягувати осі часу, щоб побачити більш детальну інформацію або загальні тенденції.
 
-![alt text](https://github.com/mdapathy/databases/blob/master1/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag7.png)
+![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag7.png)
 
 #### ***Діаграми з ділянками***
 
