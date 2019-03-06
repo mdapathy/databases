@@ -1,11 +1,11 @@
 # Запити зацікавлених осіб
 
 
-**[Вступ](https://github.com/mdapathy/databases/blob/mdapathy-patch-1/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/StakeholderRequests.md#%D0%B2%D1%81%D1%82%D1%83%D0%BF)**
+**[Вступ](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/StakeholderRequests.md#%D0%B2%D1%81%D1%82%D1%83%D0%BF)**
 
-**[1. Мета](https://github.com/mdapathy/databases/blob/mdapathy-patch-1/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/StakeholderRequests.md#1%D0%BC%D0%B5%D1%82%D0%B0)**
+**[1. Мета](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/StakeholderRequests.md#1%D0%BC%D0%B5%D1%82%D0%B0)**
 
-**[2. Основні положення](https://github.com/mdapathy/databases/blob/mdapathy-patch-1/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/StakeholderRequests.md#2%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%96-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F)**
+**[2. Основні положення](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/StakeholderRequests.md#2%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%96-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F)**
 
 **[3. Короткий огляд продукту](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/StakeholderRequests.md#3%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%B8%D0%B9-%D0%BE%D0%B3%D0%BB%D1%8F%D0%B4-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%83)**
 
@@ -415,7 +415,7 @@
 
 
 
-![alt text](https://github.com/mdapathy/databases/blob/mdapathy-patch-1/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/1.png)
+![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/1.png)
 
 
 
@@ -428,20 +428,20 @@
 З графіками стовпців можна порівняти значення для різних категорій або порівняти зміни значень за певний період часу для однієї категорії.
 
 
-![alt text](https://github.com/mdapathy/databases/blob/mdapathy-patch-1/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag1.png)
+![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag1.png)
 
 
 #### ***Гістограма***
 
 **Гістограма** - це звичайна варіація стовпчастіої діаграми, які використовуються для представлення розподілу та співвідношень однієї змінної над набором категорій. Гарним прикладом гістограми може бути розподіл оцінок на шкільному іспиті або розмір гарбуза, розділених за групами розмірів, на фестивалі гарбуза.
 
-![alt text](https://github.com/mdapathy/databases/blob/mdapathy-patch-1/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag2.png)
+![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag2.png)
 
  #### ***Складені стовпчасті діаграми***
  
 Використовуйте складені стовпчасті діаграми для *показу композиції*. Не використовуйте занадто багато елементів композиції (не більше трьох або чотирьох) і переконайтеся, що складові частини відносно подібні за розміром.
 
-![alt text](https://github.com/mdapathy/databases/blob/mdapathy-patch-1/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag3.png)
+![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag3.png)
 
 #### ***Лінійні діаграми***
 
@@ -449,14 +449,14 @@
 
 Ви повинні також використовувати діаграми, замість стовпчикових, коли кількість категорій перевищує сім (але не більше п'ятнадцяти) або для відображення набору з негативними числами.
 
-![alt text](https://github.com/mdapathy/databases/blob/mdapathy-patch-1/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag4.png)
+![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag4.png)
 
 #### ***Лінійні гістограми***
 
 Так само, як і *стовпчасті діаграми*, для представлення гістограм можна використовувати *лінійні гістограми*. Гарний приклад лінійної гістограми - це розподіл населення за віком.
 
 
-![alt text](https://github.com/mdapathy/databases/blob/mdapathy-patch-1/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag5.png)
+![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag5.png)
 
 #### ***Лінійні графіки***
 
@@ -464,57 +464,57 @@
 
 Вони найкраще підходять для візуалізації даних на основі тренду протягом певного періоду часу, коли кількість точок даних дуже висока (більше 20). З лінійними діаграмами акцент робиться на продовження або потік значень (тенденція), але все ще існує певна підтримка для порівняння одиничних значень, використовуючи *маркери даних* (тільки з менш ніж 20 точками даних).
 
-![alt text](https://github.com/mdapathy/databases/blob/mdapathy-patch-1/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag6.png)
+![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag6.png)
 
 #### ***Графіки з часовою шкалою***
 
 ***Часова шкала*** - це варіація лінійних діаграм. Очевидно, що будь-яка діаграма ліній, яка показує значення за певний період часу, є графіком часової шкали. **Єдина відмінність полягає в тому**, що *функціональність* - більшість графіків тимчасової шкали дозволяють збільшувати та зменшувати масштаб і стискати або розтягувати осі часу, щоб побачити більш детальну інформацію або загальні тенденції.
 
-![alt text](https://github.com/mdapathy/databases/blob/mdapathy-patch-1/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag7.png)
+![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag7.png)
 
 #### ***Діаграми з ділянками***
 
 Діаграма по суті є **лінійною діаграмою** - добре для тенденцій і деяких порівнянь. Діаграми діапазонів будуть поповнювати область нижче лінії, тому найкращим чином використовувати цей тип діаграм для представлення накопичувальних змін у часі, таких як запас елементів, кількість працівників або ощадний рахунок.
 
-![alt text](https://github.com/mdapathy/databases/blob/mdapathy-patch-1/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag8.png)
+![alt text](https://github.com/mdapathy/databases/blob/master1/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag8.png)
 
 #### ***Складені діаграми з ділянками***
 
 Графіки стекових областей найкраще використовуються для показу змін у складі в часі. Хорошим прикладом може служити зміна частки ринку серед провідних гравців або частки доходу за виробничою лінійкою протягом певного періоду часу.
 
-![alt text](https://github.com/mdapathy/databases/blob/mdapathy-patch-1/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag9.png)
+![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag9.png)
 
 #### ***Кругові діаграми***
 
 **Кругова діаграма** зазвичай представляє числа у відсотках, що використовуються для візуалізації частини до цілого відношення або композиції. Кругові діаграми не призначені для порівняння окремих розділів один з одним або для представлення точних значень (для цього слід використовувати діаграму).
 
-![alt text](https://github.com/mdapathy/databases/blob/mdapathy-patch-1/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag10.png)
+![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag10.png)
 
 #### ***Точкова діаграма***
 
 Точкова діаграма використовуються в основному для *аналізу кореляції та розподілу*. Добре показувати взаємозв'язок між двома різними змінними, коли один з них співвідноситься з іншим.
 
 
-![alt text](https://github.com/mdapathy/databases/blob/mdapathy-patch-1/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag11.png)
+![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag11.png)
 
 
 #### ***Діаграми з використанням карт***
 
 Діаграми з використанням карт добре підходять для того, щоб надати своїм цифрам *географічний контекст*, щоб швидко визначити *найкращі та найгірші місця, тенденції та викиди.* Якщо у вас є якісь дані про місцезнаходження, такі як координати, назви країн, назви штатів або абревіатури або адреси, ви можете побудувати пов'язані дані на карті.
 
-![alt text](https://github.com/mdapathy/databases/blob/mdapathy-patch-1/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag12.png)
+![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag12.png)
 
 #### ***Діаграми Ганта***
 
 Діаграми Ганта підходять для  *планування проектів.* Діаграми Ганта є по суті проектними картами, що ілюструють, що потрібно зробити, в якому порядку і в який термін. Ви можете візуалізувати загальний час виконання проекту, залучені ресурси, а також порядок і залежності завдань.
 
-![alt text](https://github.com/mdapathy/databases/blob/mdapathy-patch-1/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag13.png)
+![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag13.png)
 
 #### ***Діаграми багатьох осей***
 
 Якщо ви хочете *показати зв'язки та порівняти змінні на дуже різних масштабах,* найкращим варіантом може бути наявність декількох осей. Діаграма з кількома осями дасть змогу складати дані, використовуючи дві або більше y-осей і одну спільну вісь x.
 
-![alt text](https://github.com/mdapathy/databases/blob/mdapathy-patch-1/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag14.png)
+![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag14.png)
 
 ## 3.Короткий огляд продукту
 
