@@ -2,19 +2,19 @@
 
 ## Зміст
 
-***[Концепція “Open Data”. Життєвий цикл даних. Система управління даними](https://github.com/mdapathy/databases/blob/mdapathy-patch-2/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D1%96%D1%8F-open-data-%D0%B6%D0%B8%D1%82%D1%82%D1%94%D0%B2%D0%B8%D0%B9-%D1%86%D0%B8%D0%BA%D0%BB-%D0%B4%D0%B0%D0%BD%D0%B8%D1%85-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F-%D0%B4%D0%B0%D0%BD%D0%B8%D0%BC%D0%B8)***
+***[Концепція “Open Data”. Життєвий цикл даних. Система управління даними](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D1%96%D1%8F-open-data-%D0%B6%D0%B8%D1%82%D1%82%D1%94%D0%B2%D0%B8%D0%B9-%D1%86%D0%B8%D0%BA%D0%BB-%D0%B4%D0%B0%D0%BD%D0%B8%D1%85-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F-%D0%B4%D0%B0%D0%BD%D0%B8%D0%BC%D0%B8)***
 
-   **[Визначення відкритої ліцензії](https://github.com/mdapathy/databases/blob/mdapathy-patch-2/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%B2%D0%B8%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D1%96%D0%B4%D0%BA%D1%80%D0%B8%D1%82%D0%BE%D1%97-%D0%BB%D1%96%D1%86%D0%B5%D0%BD%D0%B7%D1%96%D1%97)**
+   **[Визначення відкритої ліцензії](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%B2%D0%B8%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F-%D0%B2%D1%96%D0%B4%D0%BA%D1%80%D0%B8%D1%82%D0%BE%D1%97-%D0%BB%D1%96%D1%86%D0%B5%D0%BD%D0%B7%D1%96%D1%97)**
 
-   **[Концепція відкритих даних](https://github.com/mdapathy/databases/blob/mdapathy-patch-2/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D1%96%D1%8F-%D0%B2%D1%96%D0%B4%D0%BA%D1%80%D0%B8%D1%82%D0%B8%D1%85-%D0%B4%D0%B0%D0%BD%D0%B8%D1%85)**
+   **[Концепція відкритих даних](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D1%96%D1%8F-%D0%B2%D1%96%D0%B4%D0%BA%D1%80%D0%B8%D1%82%D0%B8%D1%85-%D0%B4%D0%B0%D0%BD%D0%B8%D1%85)**
    
-   **[Ініціатива data.gov](https://github.com/mdapathy/databases/blob/mdapathy-patch-2/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D1%96%D0%BD%D1%86%D1%96%D0%B0%D1%82%D0%B8%D0%B2%D0%B0-datagov)**
+   **[Ініціатива data.gov](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D1%96%D0%BD%D1%86%D1%96%D0%B0%D1%82%D0%B8%D0%B2%D0%B0-datagov)**
    
-   **[Відкриті дані держав](https://github.com/mdapathy/databases/blob/mdapathy-patch-2/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%B2%D1%96%D0%B4%D0%BA%D1%80%D0%B8%D1%82%D1%96-%D0%B4%D0%B0%D0%BD%D1%96-%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2)**
+   **[Відкриті дані держав](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%B2%D1%96%D0%B4%D0%BA%D1%80%D0%B8%D1%82%D1%96-%D0%B4%D0%B0%D0%BD%D1%96-%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2)**
    
-   **[Життєвий цикл даних](https://github.com/mdapathy/databases/blob/mdapathy-patch-2/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%B6%D0%B8%D1%82%D1%82%D1%94%D0%B2%D0%B8%D0%B9-%D1%86%D0%B8%D0%BA%D0%BB-%D0%B4%D0%B0%D0%BD%D0%B8%D1%85)**
+   **[Життєвий цикл даних](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%B6%D0%B8%D1%82%D1%82%D1%94%D0%B2%D0%B8%D0%B9-%D1%86%D0%B8%D0%BA%D0%BB-%D0%B4%D0%B0%D0%BD%D0%B8%D1%85)**
    
-   **[Стадії обробки даних](https://github.com/mdapathy/databases/blob/mdapathy-patch-2/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D1%81%D1%82%D0%B0%D0%B4%D1%96%D1%8F-%D0%BF%D0%BB%D0%B0%D0%BD%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F)**
+   **[Стадії обробки даних](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D1%81%D1%82%D0%B0%D0%B4%D1%96%D1%8F-%D0%BF%D0%BB%D0%B0%D0%BD%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F)**
 
 **Стадія планування
 **Стадія збору
@@ -59,7 +59,7 @@
 Діаграми Ганта
 Діаграми багатьох осей
 
- **[Джерела](https://github.com/mdapathy/databases/blob/mdapathy-patch-2/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%B4%D0%B6%D0%B5%D1%80%D0%B5%D0%BB%D0%B0)
+ **[Джерела](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%B4%D0%B6%D0%B5%D1%80%D0%B5%D0%BB%D0%B0)
 
 
 ### **Концепція «Open Data». Життєвий цикл даних. Система управління даними.**
@@ -527,6 +527,8 @@
 Якщо ви хочете *показати зв'язки та порівняти змінні на дуже різних масштабах,* найкращим варіантом може бути наявність декількох осей. Діаграма з кількома осями дасть змогу складати дані, використовуючи дві або більше y-осей і одну спільну вісь x.
 
 ![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/diag14.png)
+
+
 
 
 ### Джерела
