@@ -16,18 +16,30 @@
    
    **[Стадії обробки даних](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D1%81%D1%82%D0%B0%D0%B4%D1%96%D1%8F-%D0%BF%D0%BB%D0%B0%D0%BD%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F)**
 
-**Стадія планування
-**Стадія збору
-**Стадія попереднього опрацювання
-**Стадія опису
-**Стадія збереження
-**Стадія розвідки
-**Стадія інтегрування
-**Стадія аналізу
+   **[Стадія планування](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D1%81%D1%82%D0%B0%D0%B4%D1%96%D1%8F-%D0%BF%D0%BB%D0%B0%D0%BD%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F)**
+   
+   **[Стадія збору](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D1%81%D1%82%D0%B0%D0%B4%D1%96%D1%8F-%D0%B7%D0%B1%D0%BE%D1%80%D1%83)**
+   
+   **[Стадія попереднього опрацювання](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D1%81%D1%82%D0%B0%D0%B4%D1%96%D1%8F-%D0%BF%D0%BE%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D1%8C%D0%BE%D1%97-%D0%BE%D0%B1%D1%80%D0%BE%D0%B1%D0%BA%D0%B8-%D0%B4%D0%B0%D0%BD%D0%B8%D1%85)**
+   
+   **[Стадія опису](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D1%81%D1%82%D0%B0%D0%B4%D1%96%D1%8F-%D0%BE%D0%BF%D0%B8%D1%81%D1%83)**
+   
+   **[Стадія збереження](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D1%81%D1%82%D0%B0%D0%B4%D1%96%D1%8F-%D0%B7%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F)**
+   
+   **[Стадія розвідки](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D1%81%D1%82%D0%B0%D0%B4%D1%96%D1%8F-%D1%80%D0%BE%D0%B7%D0%B2%D1%96%D0%B4%D0%BA%D0%B8)**
+   
+   **[Стадія інтегрування](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D1%81%D1%82%D0%B0%D0%B4%D1%96%D1%8F-%D1%96%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F)**
+   
+   **[Стадія аналізу](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D1%81%D1%82%D0%B0%D0%B4%D1%96%D1%8F-%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D0%B7%D1%83)**
+   
 **Визначення системи управління даними
+
 **Постачальники даних
+
 **Методи та засоби реалізації стадії збору та попереднього опрацювання даних
+
 **Процедура збору даних
+
 **Формати даних csv, xml, xlsx, txt, json
 **Метадані
 **Набір даних
@@ -59,7 +71,7 @@
 Діаграми Ганта
 Діаграми багатьох осей
 
- **[Джерела](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%B4%D0%B6%D0%B5%D1%80%D0%B5%D0%BB%D0%B0)
+ **[Джерела](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/Terms.md#%D0%B4%D0%B6%D0%B5%D1%80%D0%B5%D0%BB%D0%B0)**
 
 
 ### **Концепція «Open Data». Життєвий цикл даних. Система управління даними.**
