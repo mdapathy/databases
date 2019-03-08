@@ -650,7 +650,7 @@
 
 |                        |                                                               |
 | -----------------------|---------------------------------------------------------------|
-| **Ідентифікатор:**     | **AF- 2.2**                                                   |
+| **Ідентифікатор:**     | **[AF- 2.2](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/StakeholderRequests.md#af---22)**                                                  		       |
 | **Назва :**            | Зміна актуальності інформації в системі			 |
 |**Учасники:**           | Адміністратор; Система; Редактор;                             |
 |**Передумови:**         | Запит редактора до адміністратора      		         |
@@ -669,7 +669,7 @@
 
 |                        |                                                               |
 | -----------------------|---------------------------------------------------------------|
-| **Ідентифікатор:**     | **AF- 2.3**                                                   |
+| **Ідентифікатор:**     | **[AF- 2.3](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/StakeholderRequests.md#af---23)**                                                   |
 | **Назва :**            | Реєстрація нового співробітника сервісу			 |
 |**Учасники:**           | Керівник відділу; Система; Адміністратор                      |
 |**Передумови:**         | Запит до адміністратора на реєстрацію нового співробітника    |
@@ -790,9 +790,19 @@
  
 ![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/2.1.png)
 
- ### "AF - 2.6"
+
+### "AF - 2.2"
+
+![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/2.2.png)
+
+### "AF - 2.3"
+
+![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/2.3.png)
+
+
+### "AF - 2.6"
  
- ![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/2.6.png)
+![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/2.6.png)
 
 
 ## 9. Діаграма бізнес-процесів
