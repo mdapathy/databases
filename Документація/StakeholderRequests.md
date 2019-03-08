@@ -843,6 +843,9 @@
 ![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/2.81.png)
 
 ## 9. Діаграма бізнес-процесів
+
+![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/9.png)
+
 ## 10. Функціональність
 
 
