@@ -813,7 +813,7 @@ DDF використовується для визначення наборів 
 
 ### "AF - 1.2"
 
-![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/1.2.jpeg)
+![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/1.2.png)
 
 ### "AF - 1.3"
 
@@ -823,12 +823,12 @@ DDF використовується для визначення наборів 
  
  ### "AF - 2.1"
  
-![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/2.1.jpeg)
+![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/2.1.png)
 
 
 ### "AF - 2.2"
 
-![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/2.2.jpeg)
+![alt text](https://github.com/mdapathy/databases/blob/master/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D1%96%D1%8F/src/2.2.png)
 
 ### "AF - 2.3"
 
